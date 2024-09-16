@@ -1,0 +1,5 @@
+﻿  lr1.cpp
+C:\Users\hp\Desktop\Все для універу\Дискретна математика\лааби\lr1\lr1\lr1.cpp(13,5): warning C4101: 'p': unreferenced local variable
+C:\Users\hp\Desktop\Все для універу\Дискретна математика\лааби\lr1\lr1\lr1.cpp(13,8): warning C4101: 'q': unreferenced local variable
+C:\Users\hp\Desktop\Все для універу\Дискретна математика\лааби\lr1\lr1\lr1.cpp(13,11): warning C4101: 'r': unreferenced local variable
+  lr1.vcxproj -> C:\Users\hp\Desktop\Все для універу\Дискретна математика\лааби\lr1\x64\Debug\lr1.exe
